@@ -17,7 +17,7 @@ This project demonstrates **data structures and algorithmic concepts** in a prac
 
 ## Project Demo  
 
-![Contact Directory Preview](images/contact_demo.png)  
+![Image](https://github.com/user-attachments/assets/b20f7733-0413-461b-bbdc-9bc7de69c6f0) 
 
 ## Technologies Used  
 
